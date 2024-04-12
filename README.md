@@ -1,6 +1,6 @@
 <h2> Hi, I'm Clavino Rachmadi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RuM3FmdjMxNDkwaHhxMmplMzFnb21oNTFrNmtzZ3F0c3FqOTFsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" width="230">
-<p><em>Computer Science Student at <a href="http://www.unb.br">Mercu Buana University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Computer Science Student at <a href="https://github.com/clavinorach/">Mercu Buana University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Email: clavinorach@gmail.com](https://img.shields.io/badge/Email-clavinorach%40gmail.com-red?style=flat-square&logo=Gmail)](mailto:clavinorach@gmail.com)
