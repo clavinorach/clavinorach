@@ -3,6 +3,7 @@
 <p><em>Computer Science Student at <a href="http://www.unb.br">Mercu Buana University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
+[![Email: clavinorach@gmail.com](https://img.shields.io/badge/Email-clavinorach%40gmail.com-red?style=flat-square&logo=Gmail)](mailto:clavinorach@gmail.com)
 [![Linkedin: clavinorachmadi](https://img.shields.io/badge/-clavinorachmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clavinorachmadi/)](https://www.linkedin.com/in/clavinorachmadi/)
 [![Instagram: clavinorch](https://img.shields.io/badge/-clavinorch-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/clavinorch/)](https://www.instagram.com/clavinorch/)
 [![GitHub clavinorach](https://img.shields.io/github/followers/clavinorach?label=follow&style=social)](https://github.com/clavinorach)
