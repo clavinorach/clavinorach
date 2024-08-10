@@ -1,6 +1,6 @@
 <h2> Hi, I'm Clavino Rachmadi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RuM3FmdjMxNDkwaHhxMmplMzFnb21oNTFrNmtzZ3F0c3FqOTFsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" width="230">
 <img src="https://raw.githubusercontent.com/asmitbm/asmitbm/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RuM3FmdjMxNDkwaHhxMmplMzFnb21oNTFrNmtzZ3F0c3FqOTFsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" width="230">
 <p><em>Computer Science Student at <a href="https://github.com/clavinorach/">Mercu Buana University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
