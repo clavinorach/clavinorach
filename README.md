@@ -23,6 +23,17 @@ const clavino = {
 }
 ```
 
+## 📊 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clavinorach&show_icons=true&theme=radical" alt="Clavino's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clavinorach&theme=radical" alt="Clavino's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clavinorach&layout=compact&theme=radical" alt="Clavino's Most Used Languages" />
+</p>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
