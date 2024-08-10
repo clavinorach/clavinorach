@@ -27,5 +27,6 @@ const clavino = {
 
 ---
 
-<img align="center" src="https://github.com/clavinorach/clavinorach/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+![snake gif](https://github.com/clavinorach/clavinorach/blob/output/github-contribution-grid-snake.gif)
+
 
